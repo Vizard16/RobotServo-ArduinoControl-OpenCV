@@ -1,6 +1,6 @@
 # Robotics Summer Program Final Project
 
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
+[![Build Status](https://travis-ci.org/Vizard16/repo.svg?branch=master)](https://travis-ci.org/Vizard16/repo)
 
 On Summer I had the opportunity to visit one of the most technological cities in the world, Tokyo. There I assist as a student the Shibaura University. Where I learned about robotics and how to implement new technologies into robotics. 
 
